@@ -1,8 +1,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=AkmalFairuz&theme=vue&show_icons=true&count_private=true&include_all_commits=true" align="right"/>
 
-<br/>
-<br/>
-
 17 years old - Owner of [Venity Network](https://github.com/VenityNetwork) (A Minecraft Bedrock Server)
 
 ### About Me
@@ -16,6 +13,7 @@ Doing lots of Minecraft things, and also doing lots of programming things.
 - **PHP**: I'm still using PHP for legacy projects. It used to maintain the Venity Network server that use [PocketMine-MP](https://github.com/pmmp/PocketMine-MP).
 - **Windows**: I use Windows 11 on my main PC.
 - **MacOS**: I use macOS on my MacBook M1 Pro 14".
+- **Xiaomi**: My phone is Xiaomi 11T. I use Xiaomi products because it's cheap, and it's good enough for me.
 - **Linux**: All my servers are running on Linux. My favourite distro is Ubuntu, because it's easy to use.
 - **JetBrains**: I use JetBrains products for my development. I use [GoLand](https://www.jetbrains.com/go/), [PhpStorm](https://www.jetbrains.com/phpstorm/), and [WebStorm](https://www.jetbrains.com/webstorm/).
 - **ReactJS**: I prefer to use ReactJS for my frontend development.
@@ -24,7 +22,7 @@ Doing lots of Minecraft things, and also doing lots of programming things.
 - **[OVHcloud](https://ovh.com)**: All my projects will be hosted on OVH. Because it's cheap, fast, and reliable.
 
 ### My Projects
-- [MultiVersion](https://github.com/AkmalFairuz/MultiVersion) - A PocketMine-MP plugin to allows players to join the server using older Minecraft versions. . (Archived due to PM3 is no longer maintained, and don't have any plan to support PM4)
+- [MultiVersion](https://github.com/AkmalFairuz/MultiVersion) - A PocketMine-MP plugin to allows players to join the server using older Minecraft versions. (Archived due to PM3 is no longer maintained, and don't have any plan to support PM4)
 - [BedrockProxy](https://github.com/AkmalFairuz/BedrockProxy) - A proxy to hack Minecraft Bedrock Edition. (Discontinued)
 - [vhandler](https://github.com/VenityNetwork/vhandler) - A dragonfly library to add multiple player and world handlers.
 - [Sobana](https://github.com/AkmalFairuz/Sobana) - A PocketMine-MP library to create multithreading TCP server and client.
@@ -41,8 +39,16 @@ Doing lots of Minecraft things, and also doing lots of programming things.
 - **Storage**: Samsung SSD 980 PRO NVMe M.2 2TB
 - **Monitor**: Asus VG248QE 24" 144Hz
 
+### Gear
+- **Mouse**: Logitech G PRO X Superlight
+- **Keyboard**: Keychron K8 Pro 
+- **Headset**: Sony WH-1000XM3
+
 ### Contact Me
 - Discord: NoClip#7191
 - Email: akmal@venitymc.com
+
+### Donate
+- [PayPal](https://paypal.me/akmalfairuz)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkmalFairuz&hide=shell,css&layout=compact"/>
