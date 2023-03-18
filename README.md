@@ -22,6 +22,7 @@ Doing lots of Minecraft things, and also doing lots of programming things.
 - **[OVHcloud](https://ovh.com)**: All my projects will be hosted on OVH. Because it's cheap, fast, and reliable.
 
 ### My Projects
+- [mgx](https://github.com/AkmalFairuz/mgx) - A Golang MongoDB API to simplify the use of MongoDB in your projects.
 - [MultiVersion](https://github.com/AkmalFairuz/MultiVersion) - A PocketMine-MP plugin to allows players to join the server using older Minecraft versions. (Archived due to PM3 is no longer maintained, and don't have any plan to support PM4)
 - [BedrockProxy](https://github.com/AkmalFairuz/BedrockProxy) - A proxy to hack Minecraft Bedrock Edition. (Discontinued)
 - [vhandler](https://github.com/VenityNetwork/vhandler) - A dragonfly library to add multiple player and world handlers.
