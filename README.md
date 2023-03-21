@@ -31,20 +31,6 @@ Doing lots of Minecraft things, and also doing lots of programming things.
 - [MysqlLib](https://github.com/VenityNetwork/MysqlLib) - A PocketMine-MP library to simplify the usage of MySQL.
 - [raknet-attack](https://github.com/AkmalFairuz/raknet-attack) - A tool to attack a Minecraft server. (This attack method has been patched on PocketMine-MP)
 
-### My PC Specs
-
-- **OS**: Windows 11
-- **CPU**: Intel Core i5-10400F
-- **GPU**: NVIDIA GeForce RTX 2060
-- **RAM**: 32GB DDR4 2666MHz
-- **Storage**: Samsung SSD 980 PRO NVMe M.2 2TB
-- **Monitor**: Asus VG248QE 24" 144Hz
-
-### Gear
-- **Mouse**: Logitech G PRO X Superlight
-- **Keyboard**: Keychron K8 Pro 
-- **Headset**: Sony WH-1000XM3
-
 ### Contact Me
 - Discord: NoClip#7191
 - Email: akmal@venitymc.com
