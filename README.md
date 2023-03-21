@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=AkmalFairuz&theme=vue&show_icons=true&count_private=true&include_all_commits=true" align="right"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AkmalFairuz&theme=vue&show_icons=true&count_private=true&include_all_commits=true" align="right"/>
 
 17 years old - Owner of [Venity Network](https://github.com/VenityNetwork) (A Minecraft Bedrock Server)
 
@@ -52,4 +52,4 @@ Doing lots of Minecraft things, and also doing lots of programming things.
 ### Donate
 - [PayPal](https://paypal.me/akmalfairuz)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkmalFairuz&hide=shell,css&layout=compact"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AkmalFairuz&hide=shell,css,nsis&layout=compact"/>
