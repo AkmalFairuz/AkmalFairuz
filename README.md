@@ -32,8 +32,8 @@ Doing lots of Minecraft things, and also doing lots of programming things.
 - [raknet-attack](https://github.com/AkmalFairuz/raknet-attack) - A tool to attack a Minecraft server. (This attack method has been patched on PocketMine-MP)
 
 ### Contact Me
-- Discord: NoClip#7191
-- Email: akmal@venitymc.com
+- Discord: akmalfairuz
+- Email: akmalf475@gmail.com
 
 ### Donate
 - [PayPal](https://paypal.me/akmalfairuz)
