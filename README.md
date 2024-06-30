@@ -5,7 +5,7 @@
 ### About Me
 
 Major in Computer Science. 
-Owner & Lead Development Server at Venity Network.
+Owner & Lead Development Server at Venity Network since 2020.
 
 Doing lots of Minecraft things, and also doing lots of programming things. 
 
