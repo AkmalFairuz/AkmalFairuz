@@ -22,7 +22,7 @@ Learning Rust
 - **Grafana**: UI for monitor performance, errors from a project.
 - **Sentry**: Monitor errors that occur in production easily.
 - **JetBrains**: I use JetBrains products for my development. I use [GoLand](https://www.jetbrains.com/go/), [PhpStorm](https://www.jetbrains.com/phpstorm/), [IntelliJ](https://www.jetbrains.com/idea/), and [WebStorm](https://www.jetbrains.com/webstorm/).
-- **Chakra UI**: A Tailwind CSS components library for ReactJS that I use for my frontend development.
+- **Chakra UI**: A ReactJS library that provides styled components. I use ChakraUI for my frontend development.
 - **ReactJS**: I prefer to use ReactJS for my frontend development.
 
 ### Other
