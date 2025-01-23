@@ -1,5 +1,4 @@
-[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=7ed7f9335464&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
-
+<!--
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AkmalFairuz&theme=vue&show_icons=true&count_private=true&include_all_commits=true" align="right"/>
 
 18 years old - Owner of [Venity Network](https://github.com/VenityNetwork) (A Minecraft Bedrock Server)
@@ -58,3 +57,4 @@ Learning Rust
 - [PayPal](https://paypal.me/akmalfairuz)
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AkmalFairuz&hide=shell,css,nsis&layout=compact"/>
+-->
