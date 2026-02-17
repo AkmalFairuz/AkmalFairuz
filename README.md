@@ -23,7 +23,8 @@ I'm 19. Doing a lot of Minecraft-related work, working as an infrastructure engi
 - Discord: akmalfairuz
 - Email: akmal@venitymc.com
 
+<!--
 ### Donate
 - [PayPal](https://paypal.me/akmalfairuz)
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AkmalFairuz&hide=shell,css,nsis&layout=compact"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AkmalFairuz&hide=shell,css,nsis&layout=compact"/> -->
