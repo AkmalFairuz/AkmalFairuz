@@ -6,7 +6,7 @@ Owner of Venity Network.
 
 Computer Science Student.
 
-I'm 19. Doing a lot of Minecraft-related work, working as an infrastructure engineer, and doing a lot of backend-related work as well.
+I'm 19. Doing a lot of Minecraft-related work, working as an software developer, infrastructure engineer, and doing a lot of system design work as well. I have been seriously learning and gaining experience in software engineering since 2020.
 
 ### Languages, Frameworks, and Tools
 
@@ -18,6 +18,11 @@ I'm 19. Doing a lot of Minecraft-related work, working as an infrastructure engi
 - **Kubernetes**: To orchestrate and scale my containerized services. It helps manage multiple app instances, handle rolling updates, and maintain high availability in production environments. Currently used in Venity Network.
 - **JetBrains**: I use JetBrains products for my development. I use [GoLand](https://www.jetbrains.com/go/), [PhpStorm](https://www.jetbrains.com/phpstorm/), [IntelliJ](https://www.jetbrains.com/idea/), and [WebStorm](https://www.jetbrains.com/webstorm/).
 - **ReactJS**: Used to build frontend dashboards and internal tools that interact with REST from my backend services.
+
+## Projects (closed source)
+- [Venity Store](https://store.venitymc.com) – Built with React, integrated with Xendit and PayPal as payment gateway.
+- [Venity API & Docs](https://developer.venitymc.com) – Built with Go, delivering fast response times, documented with OpenAPI, and deployed on a Kubernetes cluster.
+- [Venity Player Dashboard](https://player.venitymc.com) – Built with React and Tailwind, utilizing Venity's API.
 
 ### Contact Me
 - Discord: akmalfairuz
