@@ -27,6 +27,7 @@ I'm 19. Doing a lot of Minecraft-related work, working as an software developer,
 ### Contact Me
 - Discord: akmalfairuz
 - Email: akmal@venitymc.com
+- Linkedin: https://www.linkedin.com/in/akmalfairuz/
 
 <!--
 ### Donate
